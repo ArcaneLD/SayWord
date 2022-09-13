@@ -1,0 +1,9 @@
+name: Sohrancasselescouilles
+version: '${project.version}'
+main: fr.arcane.sohrancasselescouilles.SohranCasseLesCouilles
+api-version: 1.19
+authors: [ Arcane ]
+
+commands:
+  sayword:
+    permission: sayword.sayword
